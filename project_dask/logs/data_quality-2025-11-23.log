@@ -1,0 +1,174 @@
+[2025-11-23 12:10:46] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:10:46] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:10:46] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:10:46] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:10:46] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:10:46] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:13:05] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:13:05] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:13:05] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:13:05] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:13:05] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:13:05] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:16:04] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:16:04] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:16:04] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:16:04] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:16:04] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:16:04] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:19:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:19:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:19:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:19:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:19:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:19:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:22:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:22:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:22:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:22:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:22:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:22:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:25:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:25:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:25:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:25:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:25:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:25:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:28:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:28:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:28:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:28:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:28:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:28:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:31:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:31:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:31:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:31:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:31:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:31:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:34:04] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:34:04] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:34:04] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:34:04] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:34:04] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:34:04] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:37:04] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:37:04] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:37:04] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:37:04] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:37:04] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:37:04] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:40:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:40:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:40:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:40:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:40:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:40:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:43:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:43:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:43:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:43:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:43:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:43:04] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:46:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:46:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:46:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:46:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:46:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:46:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:49:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:49:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:49:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:49:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:49:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:49:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:52:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:52:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:52:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:52:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:52:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:52:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:55:05] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:55:05] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:55:05] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:55:05] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:55:05] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:55:05] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 12:58:04] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 12:58:04] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 12:58:04] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 12:58:04] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 12:58:04] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 12:58:04] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:01:04] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:01:04] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:01:04] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:01:04] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:01:04] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:01:04] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:04:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:04:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:04:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:04:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:04:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:04:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:07:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:07:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:07:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:07:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:07:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:07:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:10:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:10:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:10:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:10:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:10:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:10:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:13:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:13:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:13:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:13:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:13:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:13:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:16:05] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:16:05] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:16:05] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:16:05] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:16:05] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:16:05] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:19:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:19:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:19:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:19:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:19:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:19:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:22:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:22:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:22:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:22:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:22:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:22:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:25:03] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:25:03] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:25:03] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:25:03] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:25:03] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:25:03] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:28:04] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:28:04] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:28:04] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:28:04] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:28:04] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:28:04] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:31:04] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:31:04] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:31:04] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:31:04] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:31:04] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:31:04] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv
+[2025-11-23 13:56:05] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-23/clean_data.csv
+[2025-11-23 13:56:05] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-23 13:56:05] [INFO] 📊 Tổng số dòng: 20, số cột: 5
+[2025-11-23 13:56:05] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-23 13:56:05] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-23 13:56:05] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-23/data_quality_report.csv

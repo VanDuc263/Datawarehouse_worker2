@@ -1,0 +1,8 @@
+[2025-11-23 14:07:50] [INFO] 🔹 clean_data.csv đã P3 → Bắt đầu dw_load_dim_product
+[2025-11-23 14:07:50] [INFO] dim_product.csv - status: P1
+[2025-11-23 14:07:50] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-23 14:07:50] [INFO] dim_product.csv - status: P2
+[2025-11-23 14:07:50] [INFO] ✅ Tạo xong dim_product: s3://data/dim_product.csv
+[2025-11-23 14:07:51] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 14:07:51] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 14:07:51] [INFO] dim_product.csv - status: P3

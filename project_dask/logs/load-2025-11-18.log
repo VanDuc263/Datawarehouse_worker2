@@ -1,0 +1,6 @@
+[2025-11-18 01:55:47] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-18 01:55:47] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-18 01:55:47] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-18/clean_data.csv
+[2025-11-18 03:23:19] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-18 03:23:20] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-18 03:23:20] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-18/clean_data.csv

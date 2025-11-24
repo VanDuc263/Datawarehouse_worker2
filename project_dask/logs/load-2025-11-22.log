@@ -1,0 +1,51 @@
+[2025-11-22 03:36:40] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 03:36:40] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 03:36:40] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 10:56:12] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 10:56:12] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 10:56:12] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 11:08:00] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 11:08:00] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 11:08:00] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 11:20:30] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 11:20:31] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 11:20:31] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 11:44:59] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 11:44:59] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 11:44:59] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 11:59:47] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 11:59:47] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 11:59:47] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 12:02:18] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 12:02:18] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 12:02:18] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 12:06:55] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 12:06:55] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 12:06:55] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 12:18:30] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 12:18:30] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 12:18:30] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 12:24:15] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 12:24:17] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 12:24:17] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 12:26:04] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 12:26:04] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 12:26:04] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 12:28:49] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 12:28:49] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 12:28:49] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 21:29:03] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 21:29:03] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 21:29:03] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 22:04:22] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 22:04:22] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 22:04:22] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 23:16:23] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 23:16:23] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 23:16:23] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 23:25:43] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 23:25:43] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 23:25:43] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv
+[2025-11-22 23:45:43] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 23:45:44] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 23:45:44] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv

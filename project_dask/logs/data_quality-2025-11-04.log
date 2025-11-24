@@ -1,0 +1,8 @@
+[2025-11-04 11:11:32] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/staging/2025-11-04/clean_data.csv
+[2025-11-04 11:11:33] [INFO] ✅ Số dòng dữ liệu staging: 20
+[2025-11-04 11:11:33] [INFO] 📊 Tổng số dòng: 20, số cột: 4
+[2025-11-04 11:11:33] [INFO] ✅ Không có giá trị null nào trong dữ liệu.
+[2025-11-04 11:11:33] [INFO] ✅ Không có dòng trùng lặp.
+[2025-11-04 11:11:33] [INFO] 💰 Giá nhỏ nhất: 1390000, lớn nhất: 44990000
+[2025-11-04 11:11:33] [INFO] ✅ Tất cả giá trị 'giá' đều hợp lệ.
+[2025-11-04 11:11:33] [INFO] 🎯 Đã lưu báo cáo Data Quality vào: s3://data/staging/2025-11-04/data_quality_report.csv

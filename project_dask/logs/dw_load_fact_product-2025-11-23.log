@@ -1,0 +1,16 @@
+[2025-11-23 14:09:25] [INFO] 🔹 clean_data.csv đã P3 → Bắt đầu dw_load_fact_product
+[2025-11-23 14:09:25] [INFO] fact_product_price.csv - status: P1
+[2025-11-23 14:09:25] [INFO] ✅ Đã đọc clean_data: 20 dòng, dim_product: 20 dòng
+[2025-11-23 14:09:25] [INFO] fact_product_price.csv - status: P2
+[2025-11-23 14:09:25] [INFO] ✅ Tạo xong fact_product_price: s3://data/fact_product_price.csv
+[2025-11-23 14:09:26] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 14:09:26] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 14:09:26] [INFO] fact_product_price.csv - status: P3
+[2025-11-23 14:09:49] [INFO] 🔹 clean_data.csv đã P3 → Bắt đầu dw_load_fact_product
+[2025-11-23 14:09:49] [INFO] fact_product_price.csv - status: P1
+[2025-11-23 14:09:49] [INFO] ✅ Đã đọc clean_data: 20 dòng, dim_product: 20 dòng
+[2025-11-23 14:09:49] [INFO] fact_product_price.csv - status: P2
+[2025-11-23 14:09:49] [INFO] ✅ Tạo xong fact_product_price: s3://data/fact_product_price.csv
+[2025-11-23 14:09:50] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 14:09:50] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 14:09:50] [INFO] fact_product_price.csv - status: P3

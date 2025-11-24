@@ -1,0 +1,259 @@
+[2025-11-23 12:11:07] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:11:08] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:11:08] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:11:28] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:11:29] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:11:29] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:11:49] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:11:49] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:11:49] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:13:25] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:13:25] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:13:25] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:13:45] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:13:45] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:13:45] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:14:05] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:14:05] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:14:05] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:16:24] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:16:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:16:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:16:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:16:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:16:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:17:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:17:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:17:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:19:27] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:19:27] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:19:27] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:19:47] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:19:47] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:19:47] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:20:07] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:20:07] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:20:07] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:22:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:22:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:22:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:22:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:22:43] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:22:43] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:23:03] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:23:03] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:23:03] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:25:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:25:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:25:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:25:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:25:43] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:25:43] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:26:03] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:26:03] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:26:03] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:28:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:28:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:28:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:28:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:28:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:28:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:29:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:29:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:29:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:31:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:31:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:31:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:31:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:31:43] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:31:43] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:32:03] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:32:03] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:32:03] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:34:24] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:34:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:34:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:34:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:34:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:34:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:35:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:35:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:35:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:37:24] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:37:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:37:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:37:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:37:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:37:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:38:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:38:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:38:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:40:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:40:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:40:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:40:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:40:43] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:40:43] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:41:03] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:41:03] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:41:03] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:43:24] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:43:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:43:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:43:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:43:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:43:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:44:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:44:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:44:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:46:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:46:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:46:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:46:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:46:43] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:46:43] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:47:03] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:47:03] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:47:03] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:49:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:49:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:49:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:49:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:49:43] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:49:43] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:50:03] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:50:03] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:50:03] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:52:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:52:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:52:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:52:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:52:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:52:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:53:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:53:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:53:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:55:25] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:55:25] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:55:25] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:55:45] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:55:45] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:55:45] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:56:05] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:56:05] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:56:05] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 12:58:24] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 12:58:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 12:58:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 12:58:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 12:58:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 12:58:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 12:59:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 12:59:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 12:59:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:01:24] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:01:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:01:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:01:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:01:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:01:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:02:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:02:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:02:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:04:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:04:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:04:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:04:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:04:43] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:04:43] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:05:03] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:05:03] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:05:03] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:07:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:07:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:07:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:07:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:07:43] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:07:43] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:08:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:08:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:08:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:10:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:10:26] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:10:26] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:10:46] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:10:46] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:10:46] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:11:06] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:11:06] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:11:06] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:13:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:13:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:13:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:13:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:13:43] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:13:43] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:14:03] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:14:03] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:14:03] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:16:25] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:16:25] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:16:25] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:16:45] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:16:45] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:16:45] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:17:05] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:17:05] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:17:05] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:19:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:19:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:19:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:19:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:19:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:19:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:20:05] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:20:05] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:20:05] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:22:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:22:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:22:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:22:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:22:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:22:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:23:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:23:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:23:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:25:23] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:25:23] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:25:23] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:25:43] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:25:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:25:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:26:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:26:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:26:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:28:24] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:28:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:28:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:28:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:28:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:28:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:29:05] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:29:05] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:29:05] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 13:31:24] [INFO] ✅ Đã đọc dim_brand: 11 dòng
+[2025-11-23 13:31:24] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 13:31:24] [INFO] 📊 Số dòng trong bảng dim_brand: 11
+[2025-11-23 13:31:44] [INFO] ✅ Đã đọc dim_product: 20 dòng
+[2025-11-23 13:31:44] [INFO] 🎯 Load dim_product thành công vào bảng `dim_product`
+[2025-11-23 13:31:44] [INFO] 📊 Số dòng trong bảng dim_product: 20
+[2025-11-23 13:32:04] [INFO] ✅ Đã đọc fact_product_price: 20 dòng
+[2025-11-23 13:32:04] [INFO] 🎯 Load fact_product_price thành công vào bảng `fact_product_price`
+[2025-11-23 13:32:04] [INFO] 📊 Số dòng trong bảng fact_product_price: 20
+[2025-11-23 14:05:36] [INFO] 🔹 clean_data.csv đã P3 → Bắt đầu dw_load_dim
+[2025-11-23 14:05:36] [INFO] dim_brand.csv - status: P1
+[2025-11-23 14:05:36] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-23 14:05:36] [INFO] dim_brand.csv - status: P2
+[2025-11-23 14:05:36] [INFO] ✅ Tạo xong dim_brand: s3://data/dim_brand.csv
+[2025-11-23 14:05:37] [INFO] 🎯 Load dim_brand thành công vào bảng `dim_brand`
+[2025-11-23 14:05:37] [INFO] dim_brand.csv - status: P3
